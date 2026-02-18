@@ -5,7 +5,7 @@ import time
 
 # ---------------- CONFIG ----------------
 VIDEO_PATH = "test_vid1.mp4"              # your test video
-MODEL_PATH = "accidents.pt"               # your trained model
+MODEL_PATH = "accident.pt"               # your trained model
 CONF_THRESHOLD = 0.4                 # lower = fewer misses
 IMG_SIZE = 960                       # higher = better small object detection
 SAVE_FOLDER = "accident_frames"
