@@ -9,7 +9,7 @@ CONF_THRESHOLD = 0.4
 IMG_SIZE = 960
 SAVE_FOLDER = "fire_smoke_frames"
 COOLDOWN_SECONDS = 2
-CAMERA_INDEX = 1   # 0 = default USB webcam (change to 1 if multiple cameras)
+CAMERA_INDEX = 0   # 0 = default USB webcam (change to 1 if multiple cameras)
 # ----------------------------------------
 
 # Load model
